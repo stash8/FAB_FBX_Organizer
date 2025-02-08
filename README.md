@@ -14,8 +14,6 @@ It should make it easier to drag and drop one group of FBX files into your progr
 brew install python-tk</p>
 
 
-NOTE: Change \ with / for your file path when the popup asks for source and destination folder (e.g., D:\Fab\BLD changes to D:/Fab/BLD)
-
 <b>Install Tkinter </b> (if needed): Tkinter is usually included with Python. If you get an error saying ModuleNotFoundError: No module named 'tkinter', you may need to install it separately. The installation of Tkinter depends on your operating system and Python distribution. Some common ways are:
 
   
